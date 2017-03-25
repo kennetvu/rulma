@@ -10,6 +10,6 @@ storiesOf('Box', module)
   ))
   .add('Box', () =>
     <Box>
-      A white <b>box</b> to contain other elements.
+      A white <b>b</b> to contain other elements.
     </Box>,
   );
